@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- META TAG -->
+  <meta charset="UTF-8">
+  <!-- mobile view -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, "shrink-to-fit=no">
+  <!-- LINKS -->
+  <!-- main style css -->
+  <link rel="stylesheet" href="ReminderStyle.css">
+<div id="myDIV" class="header">
+  <h2>Reminders</h2>
+
+<p> This is a friendly reminder that the deadline to vote is October 12. </p>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>Pizza Party</li>
+  <li>Corporation Party </li>
+  <li>Team building Workshop</li>
+
+</ul>
+
+<ul id="myUL">
+  <li class="checked">House Party</li> 
+  <li class="checked">Pay bills</li>
+</ul>
