@@ -64,7 +64,7 @@ header
 {
 width:100%;
 height:50px;
-background:#1b2125;
+background:mediumpurple;
 position:relative;
 }
 
@@ -139,7 +139,7 @@ position:relative;
 background:#250730;
 border-radius:5px;
 margin-top:15px;
-color:#58626b;
+color:white;
 cursor:pointer;
 }
 #listlink li i
