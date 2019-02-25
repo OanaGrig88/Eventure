@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- META TAG -->
+  <meta charset="UTF-8">
+  <!-- mobile view -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, "shrink-to-fit=no">
+  <!-- LINKS -->
+  <!-- main style css -->
+  <link rel="stylesheet" href="VotingCompleteStyle.css">
+ <section id="mainscreen">
+<header>
+<i class="fa fa-align-justify" id="mainmenu"></i>
+<h1>Voting Complete!</h1>
+</header>
+<div>
+  <p>Pizza Party</p>
+<div class="container">
+  <div class="skills html">90%</div>
+</div>
+
+<p>Outside Corporation Party</p>
+<div class="container">
+  <div class="skills css">80%</div>
+</div>
+
+<p>Innovation Workshop</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+</div>
