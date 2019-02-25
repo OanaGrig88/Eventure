@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- META TAG -->
+  <meta charset="UTF-8">
+  <!-- mobile view -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, "shrink-to-fit=yes">
+  <!-- LINKS -->
+  <!-- main style css -->
+  <link rel="stylesheet" href="codepenstyle.css">
+  <script src="jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="codepenpage"></script>
+                                         
+<nav id="mainmenu">
+<h2>Menu</h2>
+<ul>
+<li>View Events</li>
+<li>Create Event</li>
+<li>Lessons Learned</li>
+<li>Input Lesson</li>
+<li>Notifications</li>
+<li>Settings</li>
+</ul>  
+</nav>
+<section id="mainscreen">
+<header>
+<i class="fa fa-align-justify" id="mainmenu"></i>
+<h1>Lessons Learned</h1>
+</header>
+<div>
+<section id="container">
+<p class="intro">My Lessons Learned</p>
+<ul id="listlink">    
+<li><div></div><span class="titles"><i class="fa fa-edit"></i>Orlando Party</span><span class="offdata"></span></li>
+<li><div></div><span class="titles"><i class="fa fa-edit"></i>President Day</span><span class="offdata"></span></li>
+<li><div></div><span class="titles"><i class="fa fa-edit"></i> Innovation Tools</span><span class="offdata"</span></li></div>
+
+ <footer align="right">
+    <nav><button id="buyproduct">Add</button>
+    </nav>
+  <form class="example" action="action_page.php">
+    <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+<section id="container">
+<p class="intro">Lessons Learned Contribute Invites</p>
+<ul id="listlink">    
+<li><div></div><span class="titles"><i class="fa fa-calendar"></i>Benefits of Meditation</span><span class="offdata"></span></li>
+<li><div></div><span class="titles"><i class="fa fa-calendar"></i>Innovation Tools</span><span class="offdata"></span></li>
+<li><div></div><span class="titles"><i class="fa fa-calendar"></i>Corporation Party</span><span class="offdata"></span></li>
+</ul>
+</section>
+                                                                                                               </div>
+  
+</footer>
+</section>
+</section>
+
+</section> 
