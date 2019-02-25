@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- META TAG -->
+  <meta charset="UTF-8">
+  <!-- mobile view -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, "shrink-to-fit=no">
+  <!-- LINKS -->
+  <!-- main style css -->
+  <link rel="stylesheet" href="inputlessonsStyle.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+</head>
+  <a href="#" class="previous round">&#8249;</a>
+    <h3>INPUT NEW LESSON</h3>
+
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="ename">Title</label>
+      <input type="text" id="fname" name="firstname" placeholder="Title">
+
+    
+
+    <p> Description</p>
+   <textarea rows="6" cols="40" placeholder="Input">
+ </textarea>
+<div class="w3-container">
+  <button class="w3-button w3-xlarge w3-circle w3-teal">+</button>
+  <h8>  Add another Lesson</h8>
+</div>
+<body>
+<div>
+    <i class="material-icons" style="font-size:48px">person_add</i><p>Invite to Contribute</p>
+</div>
+</body>
+<body>
+</div>
+ <label class="container"> Private lesson
+  <input type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+  <label class="container"> Public lesson
+  <input type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+    <div>
+    <button type="submit" class="button-right-sign">Submit</button>
+  </div>
+  </form>
+  </body>
+</html>
